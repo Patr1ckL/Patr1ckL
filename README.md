@@ -1,7 +1,7 @@
 <!-- Greeting -->
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Hi there 👋, Welcome to my Github!
+## Hi there 👋, Welcome to my GitHub!
 
 <!-- Introduction -->
 My name is **Patrick** and I'm currently studying for my MSc degree on Advanced Computer Science at the University of Sheffield
