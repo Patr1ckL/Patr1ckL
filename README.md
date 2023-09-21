@@ -4,18 +4,25 @@
 ## Hi there 👋, Welcome to my GitHub!
 
 <!-- Introduction -->
-My name is **Patrick** and I'm currently studying for my MSc degree on Advanced Computer Science at the University of Sheffield
+My name is **Patrick** and I have graduated from the University of Sheffield.
 
 <!-- Badages -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PatrickL)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziyan.liu.01@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyan-liu-31a1a0265/)
 
+<!-- Education -->
+#### 📖 Education
+
+2022.09 - 2024.01  University of Sheffield(UK)  Advanced Computer Science (MSc)
+
+2018.09 - 2022.06  Chang'an University(China)  Software Engineering (Bachelor)
+
 <!-- Current Work-->
 #### 📖 Things I am currently working on: 
 - Finishing my Advanced Computer Science master degree  
-- Finishing my dissertation project
-- Looking for a suitable job in UK
+- Preparing myself for working
+- Looking for a suitable job
 
 <!-- Skill Sets-->
 #### ⚡ Skill Set:
@@ -27,4 +34,5 @@ My name is **Patrick** and I'm currently studying for my MSc degree on Advanced 
 
 #### 💻 Projects:
  - [Sparefood Share](https://github.com/404-N0tFound/SpareFoodShare)
+ - [Detection of Foetal Heart Rate from the Electrocardiogram](https://github.com/Patr1ckL/Dissertation-Project.git) (This project is still private because the scoring process is not completed yet)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Patr1ckL&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> </p>
