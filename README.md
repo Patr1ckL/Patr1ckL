@@ -14,14 +14,16 @@ My name is **Patrick** and I have graduated from the University of Sheffield.
 <!-- Education -->
 #### 📖 Education
 
-2022.09 - 2024.01  University of Sheffield(UK)  Advanced Computer Science (MSc)
+2022.09 - 2024.01 &nbsp;&nbsp;&nbsp; University of Sheffield &nbsp;&nbsp;&nbsp; UK </br>
+Advanced Computer Science &nbsp;&nbsp;&nbsp; Master of Science
 
-2018.09 - 2022.06  Chang'an University(China)  Software Engineering (Bachelor)
+2018.09 - 2022.06 &nbsp;&nbsp;&nbsp; Chang'an University &nbsp;&nbsp;&nbsp; China  </br>
+Software Engineering &nbsp;&nbsp;&nbsp; Bachelor
 
 <!-- Current Work-->
 #### 📖 Things I am currently working on: 
 - Finishing my Advanced Computer Science master degree  
-- Preparing myself for working
+- Preparing myself for work
 - Looking for a suitable job
 
 <!-- Skill Sets-->
